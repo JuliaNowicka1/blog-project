@@ -1,0 +1,9 @@
+<%- include('partials/header') %>
+<form action="/note" method="POST">
+    <div class="form-group shadow-textarea">
+        <label for="exampleFormControlTextarea6">Your note: </label>
+        <textarea class="form-control z-depth-1" id="note" rows="8" placeholder="Write something here..." name="textarea"></textarea>
+      </div>
+      <button type="submit" class="btn btn-dark">Submit</button>
+    </form>
+<%- include('partials/navbar') %>

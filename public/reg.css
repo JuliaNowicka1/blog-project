@@ -1,0 +1,30 @@
+form{
+    padding-top: 2%;
+    padding-left: 25%;
+    padding-right: 25%;
+}
+
+#button-sub{
+    padding-top: 25px;
+}
+
+.btn{
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.row{
+    padding-bottom: 1.5rem;
+}
+
+p{
+    padding: 5px;
+}
+
+h2{
+    padding-top: 8%
+}
+
+.form-group{
+    padding-bottom: 1.5rem;
+}

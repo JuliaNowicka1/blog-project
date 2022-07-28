@@ -1,0 +1,44 @@
+body{
+    background-color: #c0d8f0;
+  }
+  
+  
+  #welcome{
+      padding: 7% 15%;
+  }
+  
+  /* Navigation Bar */
+  
+  .navbar{
+      padding: 0.5rem 2rem;
+  }
+  
+  .nav-item{
+      padding: 0 18px; 
+  }
+  
+  .nav-link{
+      font-size: 1.2rem;
+      font-family: "Montserrat-Light", sans-serif;
+  }
+  
+  .navbar-brand{
+      color: darkcyan;
+      font-size: 3rem;
+  }
+
+  .navbar-brand:hover{
+    color: #006161; 
+  }
+  
+  /* cta buttons */
+  
+  .cta-button{
+      margin: 2% 30%;
+      width: 60%;
+  }
+  
+  .buttons{
+      padding-top: 20%;
+  }
+  
